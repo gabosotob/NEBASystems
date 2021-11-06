@@ -21,6 +21,10 @@ section {
     display: block
 }
 
+#about-us-text {
+    text-align: justify;
+}
+
 
 /* #header-nav-bar {
     background-color: white;
