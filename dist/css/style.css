@@ -21,6 +21,16 @@ section {
     display: block
 }
 
+
+/* #header-nav-bar {
+    background-color: white;
+    display: inline-block;
+}
+
+.nav-bar-menu {
+    list-style: none;
+} */
+
 h1 {
     font-size: 2em;
     margin: 0.67em 0
