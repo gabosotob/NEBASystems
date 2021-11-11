@@ -2102,6 +2102,11 @@ main {
       flex-direction: column;
   }
   .titulos-imagenes-izquierda{
-      position:relative; 
+      justify-content: center;
+      align-items: center;
   }
-  
+  .flex-box-titulo-container{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
