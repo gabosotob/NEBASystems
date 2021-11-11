@@ -2101,3 +2101,7 @@ main {
       margin: 10px;
       flex-direction: column;
   }
+  .titulos-imagenes-izquierda{
+      position:relative; 
+  }
+  
