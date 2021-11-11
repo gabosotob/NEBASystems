@@ -2086,3 +2086,18 @@ main {
   .hover-shadow:hover {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+  .features-section{
+    width:100%;
+    min-height:200px;
+  }
+
+  .flex-box-wrap-container{
+      display:flex;
+      padding: 10px;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  }
+  .flex-box-wrap-container img{
+      margin: 10px;
+      flex-direction: column;
+  }
