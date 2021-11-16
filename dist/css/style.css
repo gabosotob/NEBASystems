@@ -377,14 +377,14 @@ textarea {
 }
 
 a {
-    color: #8A94A7;
+    color:#fff ;
     text-decoration: underline
 }
 
 a:hover,
 a:active {
     outline: 0;
-    text-decoration: none
+    text-decoration: underline
 }
 
 h1,
@@ -734,6 +734,7 @@ label {
 .list-reset {
     list-style: none;
     padding: 0;
+    color: #fff;
 }
 
 .text-left {
@@ -1884,8 +1885,8 @@ main {
 }
 
 .site-footer a {
-    color: #8A94A7;
-    text-decoration: none
+    color:#fff;
+    text-decoration: none;
 }
 
 .site-footer a:hover,
@@ -2098,7 +2099,7 @@ main {
       justify-content: space-around;
   }
   .flex-box-wrap-container img{
-      margin: 10px;
+      margin: 5px;
       flex-direction: column;
   }
   .titulos-imagenes-izquierda{
@@ -2108,5 +2109,10 @@ main {
   .flex-box-titulo-container{
       display: flex;
       justify-content: center;
-      align-items: center;
+      align-content: center;
+  }
+  .titulo{
+   background: #062c4f;
+   border-radius: 25px;
+   padding: 20px; 
   }
